@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charan Vignesh N R
 ==========================================================================================================================================
 
-Data Scientist
+Software Developer
 --------------
 
-Data Scientist with keen interests in coding and exploring the intricacies of emerging technologies!
+Software Developer with keen interests in coding, data science and exploring the intricacies of emerging technologies!
 
-* 🌍  I'm based in Chennai, India
+* 🌍  I'm from Chennai, India
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/charan-vignesh-nr/)
 * ✉️  You can contact me at [charanvignesh10@gmail.com](mailto:charanvignesh10@gmail.com)
 * 🧠  Currently learning Angular and Spring Boot
