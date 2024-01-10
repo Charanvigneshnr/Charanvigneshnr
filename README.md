@@ -9,7 +9,7 @@ Data Scientist with keen interests in coding and exploring the intricacies of em
 * 🌍  I'm based in Chennai, India
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/charan-vignesh-nr/)
 * ✉️  You can contact me at [charanvignesh10@gmail.com](mailto:charanvignesh10@gmail.com)
-* 🧠  I'm learning Deep Learning
+* 🧠  Currently learning Angular and Spring Boot
 
 ### Skills
 
