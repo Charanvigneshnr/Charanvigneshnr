@@ -9,7 +9,7 @@ Software Developer with keen interests in coding, data science, and exploring th
 * 🌍  I'm from Chennai, India
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/charan-vignesh-nr/)
 * ✉️  You can contact me at [charanvignesh10@gmail.com](mailto:charanvignesh10@gmail.com)
-* 🧠  Currently learning TensorFlow
+* 🧠  My neural network is still training...
 
 ### Skills
 
