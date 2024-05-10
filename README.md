@@ -4,7 +4,7 @@ Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 --------------
 
-Software Developer with keen interests in coding, data science, and exploring the intricacies of emerging technologies!
+Software Developer with keen interests in cloud, coding, data science, and exploring the intricacies of emerging technologies!
 
 * 🌍  I'm from Chennai, India
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/charan-vignesh-nr/)
